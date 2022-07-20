@@ -102,5 +102,8 @@
       }
     }
   },
-  "defaultProject": "reconciliationApp-ui"
+  "defaultProject": "reconciliationApp-ui",
+  "cli": {
+    "analytics": false
+  }
 }
